@@ -25,6 +25,9 @@
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
+    <td align='center'>
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
+    </td>
  
 </tr>
  
